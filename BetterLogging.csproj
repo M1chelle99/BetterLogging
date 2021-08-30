@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Michelle Becker</Authors>
+    <Company>MichelleBecker2003@gmail.com</Company>
+    <Version>2.0.0</Version>
+    <PackageId>BetterLogging</PackageId>
+    <Product>BetterLogging</Product>
+    <AssemblyName>BetterLogging</AssemblyName>
+    <RootNamespace>BetterLogging</RootNamespace>
+  </PropertyGroup>
+
+</Project>
